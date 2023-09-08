@@ -1,0 +1,11 @@
+.todos {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 7px 29px 0px;
+  padding: 10px;
+  border-radius: 10px;
+  height: auto;
+}
+.todoList {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 7px 29px 0px;
+  padding: 10px;
+  border-radius: 10px;
+}
